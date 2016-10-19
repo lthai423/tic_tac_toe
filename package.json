@@ -1,0 +1,11 @@
+{
+  "name": "t3",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe CL App",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
